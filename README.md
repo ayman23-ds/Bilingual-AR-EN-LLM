@@ -224,9 +224,7 @@ Model weights are not stored in this repository.
 
 ---
 
-## Author
 
-**Ahmed Ayman Abdelhadi** · [GitHub](https://github.com/ayman23-ds)
 
 ## Acknowledgements
 
